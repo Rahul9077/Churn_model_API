@@ -1,7 +1,7 @@
 import json
 import pickle
 import bz2file as bz2
-import joblib
+# import joblib
 from fastapi import FastAPI
 import uvicorn
 from pydantic import BaseModel
