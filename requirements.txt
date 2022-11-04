@@ -1,4 +1,5 @@
 anyio==3.6.2
+bz2file==0.98
 certifi==2022.9.24
 charset-normalizer==2.0.12
 click==8.1.3
